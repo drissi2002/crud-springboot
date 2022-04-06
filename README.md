@@ -1,5 +1,5 @@
 # springCRUD
-A fullsatck simple project for managing employees 
+A Full stack simple project for managing employees 
 
 ## Preview
 <p align="center">
