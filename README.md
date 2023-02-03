@@ -1,4 +1,4 @@
-# spring-crud
+# crud-springboot
 A Full stack simple project for managing employees 
 
 ## Preview
